@@ -2,6 +2,8 @@
 ![TextCNN](https://raw.githubusercontent.com/pppihf/EventClassification/main/results/TextCNN.png)
 ## TextRNN
 ![TextRNN](https://raw.githubusercontent.com/pppihf/EventClassification/main/results/TextRNN.png)
+## FastText
+![FastText](https://raw.githubusercontent.com/pppihf/EventClassification/main/results/FastText.png)
 ## TextRCNN
 ![TextRCNN](https://raw.githubusercontent.com/pppihf/EventClassification/main/results/TextRCNN.png)
 ## TextRNN_Att
