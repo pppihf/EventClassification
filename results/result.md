@@ -12,3 +12,5 @@
 ![Transformer](https://raw.githubusercontent.com/pppihf/EventClassification/main/results/Transformer.png)
 ## BERT
 ![BERT](https://raw.githubusercontent.com/pppihf/EventClassification/main/results/BERT.png)
+## ERNIE
+![ERNIE](https://raw.githubusercontent.com/pppihf/EventClassification/main/results/ERNIE.png)
